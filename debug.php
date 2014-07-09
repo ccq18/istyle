@@ -131,8 +131,7 @@ class RUN{
         }
         $str .= "<p>总内存消耗：{$end['mem_end']}<br>
         总耗时：{$end['time_il']}<br>
-        初始内存：{$end['mem_start']}  额外内存消耗：{$end['mem_il']}</p>
-";      
+        初始内存：{$end['mem_start']}  额外内存消耗：{$end['mem_il']}</p>";      
         echo $str.'</div>';  
 
     }

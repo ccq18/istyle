@@ -21,6 +21,10 @@ class IStyle{
 		'TMPL_PARSE_STRING'=>array()//模板替换变量
 		//'TMPL_PARSE_STRING'=>array('__PATH__'=>__FILE__)
 	);
+
+	public function test(){
+		
+	}
 	/**   
 	 * 设置或取得模板配置
 	 * @author cc <348578429@qq.com> 2014-4
