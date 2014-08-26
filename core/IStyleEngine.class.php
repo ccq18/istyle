@@ -1,4 +1,5 @@
 <?php
+//附加get_called_class文件
 if(!function_exists('get_called_class')) {
 	class class_tools
 	{

@@ -39,8 +39,10 @@ class IStyle{
 		}
 		
 	}
+	
 	/*保存assign变量*/
 	public $_tpl_data=array();
+
 	/**   
 	 * 将变量传入到模板中		
 	 * @author cc <348578429@qq.com> 2014-4
